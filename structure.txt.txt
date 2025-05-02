@@ -1,0 +1,13 @@
+term_bot/
+├── .env
+├── config.py
+├── keyboards.py
+├── handlers/
+│   ├── __init__.py
+│   ├── common.py
+│   ├── search.py
+│   └── errors.py
+├── data/
+│   └── terms.py
+├── main.py
+└── requirements.txt
